@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nahidul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidul hasan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nahidul-hasan-1b441b164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidul hasan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/himel_cse_cou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himel_cse_cou" height="30" width="40" /></a>
-<a href="https://fb.com/nahidul hasan himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahidul hasan himel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nahidulhasan.hemal.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahidul hasan himel" height="30" width="40" /></a>
 <a href="https://instagram.com/himel_57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himel_57" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nahidul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nahidul hasan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hemal57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemal57" height="30" width="40" /></a>
